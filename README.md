@@ -2,4 +2,4 @@
 
 Repositório para praticar git
 
-Versão A do repositório.
+Versão final do repositório (A + B combinados).
